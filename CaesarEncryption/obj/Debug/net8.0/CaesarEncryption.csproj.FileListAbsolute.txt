@@ -1,0 +1,14 @@
+/Users/nataliastaszel/Desktop/Studia/Inżynier/Bezpieczeństwo systemów informatycznych/CaesarEncryption/CaesarEncryption/bin/Debug/net8.0/CaesarEncryption
+/Users/nataliastaszel/Desktop/Studia/Inżynier/Bezpieczeństwo systemów informatycznych/CaesarEncryption/CaesarEncryption/bin/Debug/net8.0/CaesarEncryption.deps.json
+/Users/nataliastaszel/Desktop/Studia/Inżynier/Bezpieczeństwo systemów informatycznych/CaesarEncryption/CaesarEncryption/bin/Debug/net8.0/CaesarEncryption.runtimeconfig.json
+/Users/nataliastaszel/Desktop/Studia/Inżynier/Bezpieczeństwo systemów informatycznych/CaesarEncryption/CaesarEncryption/bin/Debug/net8.0/CaesarEncryption.dll
+/Users/nataliastaszel/Desktop/Studia/Inżynier/Bezpieczeństwo systemów informatycznych/CaesarEncryption/CaesarEncryption/bin/Debug/net8.0/CaesarEncryption.pdb
+/Users/nataliastaszel/Desktop/Studia/Inżynier/Bezpieczeństwo systemów informatycznych/CaesarEncryption/CaesarEncryption/obj/Debug/net8.0/CaesarEncryption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliastaszel/Desktop/Studia/Inżynier/Bezpieczeństwo systemów informatycznych/CaesarEncryption/CaesarEncryption/obj/Debug/net8.0/CaesarEncryption.AssemblyInfoInputs.cache
+/Users/nataliastaszel/Desktop/Studia/Inżynier/Bezpieczeństwo systemów informatycznych/CaesarEncryption/CaesarEncryption/obj/Debug/net8.0/CaesarEncryption.AssemblyInfo.cs
+/Users/nataliastaszel/Desktop/Studia/Inżynier/Bezpieczeństwo systemów informatycznych/CaesarEncryption/CaesarEncryption/obj/Debug/net8.0/CaesarEncryption.csproj.CoreCompileInputs.cache
+/Users/nataliastaszel/Desktop/Studia/Inżynier/Bezpieczeństwo systemów informatycznych/CaesarEncryption/CaesarEncryption/obj/Debug/net8.0/CaesarEncryption.dll
+/Users/nataliastaszel/Desktop/Studia/Inżynier/Bezpieczeństwo systemów informatycznych/CaesarEncryption/CaesarEncryption/obj/Debug/net8.0/refint/CaesarEncryption.dll
+/Users/nataliastaszel/Desktop/Studia/Inżynier/Bezpieczeństwo systemów informatycznych/CaesarEncryption/CaesarEncryption/obj/Debug/net8.0/CaesarEncryption.pdb
+/Users/nataliastaszel/Desktop/Studia/Inżynier/Bezpieczeństwo systemów informatycznych/CaesarEncryption/CaesarEncryption/obj/Debug/net8.0/CaesarEncryption.genruntimeconfig.cache
+/Users/nataliastaszel/Desktop/Studia/Inżynier/Bezpieczeństwo systemów informatycznych/CaesarEncryption/CaesarEncryption/obj/Debug/net8.0/ref/CaesarEncryption.dll
